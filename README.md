@@ -38,4 +38,4 @@ O objetivo principal foi compreender o ciclo de vida das requisições web, mani
 ### Passo a Passo
 1. Clone este repositório para a sua máquina local:
    ```bash
-   git clone [https://github.com/josegab-tech/atividade-http.git](https://github.com/josegab-tech/atividade-http.git)
+   git clone https://github.com/josegab-tech/atividade-http.git
